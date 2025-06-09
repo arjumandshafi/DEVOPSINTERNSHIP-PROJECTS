@@ -1,0 +1,20 @@
+{
+  "name": "githubactions-cicdproject",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    
+     "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
